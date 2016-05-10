@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== Add related posts link ===
 Contributors: nakachon
 Tags: category, link, custom
 Requires at least: 4.0.1
